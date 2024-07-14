@@ -21,5 +21,5 @@ The first algorithm recovers the optimality convergence rate of $`O\sqrt{\frac{1
 In the second algorithm proposed, the optimality rate can be recovered by making a reasonable choice of dimensionality reduction factor which has been shown in the experiments.
 
 ## References
-[1] Mingrui Zhang, Zebang Shen, Aryan Mokhtari, Hamed Hassani, Amin Karbasi: One Sample Stochastic Frank-Wolfe
-[2] David Kozak, Stephen Becker, Alizera Doostan, Luis Tenorio. Stochatic Subspace Descent
+[1] [Mingrui Zhang, Zebang Shen, Aryan Mokhtari, Hamed Hassani, Amin Karbasi: One Sample Stochastic Frank-Wolfe](https://arxiv.org/pdf/1910.04322)
+[2] [David Kozak, Stephen Becker, Alizera Doostan, Luis Tenorio. Stochatic Subspace Descent](https://arxiv.org/pdf/1904.01145)
